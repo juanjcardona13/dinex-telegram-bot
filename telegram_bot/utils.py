@@ -1,10 +1,6 @@
 
 from urllib.parse import quote, urljoin
 from telegram_bot.constants import API_BASE, VIDEO_NAME
-<<<<<<< HEAD
-=======
-from telegram_bot.frames import FramesSection
->>>>>>> 1e11dbe54641d5a296873714a70e4ad3750716c1
 
 def get_url_path_frame(frame: int) -> str:
     """
