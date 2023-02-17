@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 07e4c678c6599c72f41e71a37af98d14380674c3 Juan Guzmán <juanjcardona13@gmail.com> 1676575203 -0500	branch: Created from origin/main
+07e4c678c6599c72f41e71a37af98d14380674c3 970d53862454a91c0712e3fa0ed7a0c448573de3 Juan Guzmán <juanjcardona13@gmail.com> 1676575394 -0500	commit (merge): Merge branch 'stage'
+970d53862454a91c0712e3fa0ed7a0c448573de3 41584cd180aa0bd2006675ab50e02f386bd1d63d Juan Guzmán <juanjcardona13@gmail.com> 1676575430 -0500	commit: call me who init
+41584cd180aa0bd2006675ab50e02f386bd1d63d ec13b9b771f76840b5d0d3bdadcdd676ae0d1e70 Juan Guzmán <juanjcardona13@gmail.com> 1676580461 -0500	commit: Fix bug 2
+ec13b9b771f76840b5d0d3bdadcdd676ae0d1e70 cd25cb4cf719bc5a45397e0e2d4c4c1967e4c922 Juan Guzmán <juanjcardona13@gmail.com> 1676604866 -0500	commit: Move TELEGRAM TOKEN
