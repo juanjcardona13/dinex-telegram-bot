@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "workbench.colorTheme": "Default Dark+",
+=======
+    "workbench.colorTheme": "Pycharm Original Theme",
+>>>>>>> 1e11dbe54641d5a296873714a70e4ad3750716c1
     "python.linting.pylintEnabled": true,
     "python.linting.pylintArgs": [
         "--enable=W0614"
